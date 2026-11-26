@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Output artifact (generated at run time)
+/output/
+entry.out
+
+# Editor / OS
+.DS_Store
+*.swp
